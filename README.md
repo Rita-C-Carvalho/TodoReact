@@ -1,8 +1,17 @@
 # TodoList em React
+<di>
+  <img src="https://images2.imgbox.com/71/e3/YcZZ6JYz_o.png" alt="image host">
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Badge CONCLUIDO](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
+<div>
+  <p>
+    Esse projeto foi desenvolvido em React com JavaScript.
+    Segue algumas etapas importantes que foram usadas durante o desenvilvimento:
+  </p>
+  
+    - O projeto foi criado usando o vite com o comando (npm create vite@latest).
+    
+    - Para realizar a mudança de cores do botão e tarefa completa, foi utilizado o hook useState do React, que serve para a criação e manipulação de componentes funcionais.    
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+</div>
